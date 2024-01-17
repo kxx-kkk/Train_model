@@ -1,2 +1,4 @@
-# Train_model
-Model training colab file for FYP
+# Model Training Program 
+Colab notebook for training FYP model
+
+
